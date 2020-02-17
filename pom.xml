@@ -62,11 +62,13 @@
 		</dependency>
 		-->
 
+		<!--
 		<dependency>
 			<groupId>com.pravasi</groupId>
 			<artifactId>pravasi-commons</artifactId>
 			<version>${pravasi-commons.version}</version>
 		</dependency>
+		-->
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
